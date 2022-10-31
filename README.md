@@ -11,4 +11,8 @@
 
 ## Jawaban
 
-![Gambar 2](result.PNG) <br>
+### Enkripsi
+![Gambar 2](enkrip.PNG) <br>
+
+### Dekripsi
+![Gambar 3](dekrip.PNG) <br>
